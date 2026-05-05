@@ -1,1 +1,1 @@
-# -AI-Currency-Exchange-Advisor-
+# -AI-Currency-Exchange-Advisor-AI-Electrical-Fault-Detection
