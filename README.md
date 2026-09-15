@@ -1,1 +1,0 @@
-AI-Electrical-Fault-Detection
